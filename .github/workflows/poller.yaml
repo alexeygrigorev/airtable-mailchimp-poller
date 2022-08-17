@@ -1,0 +1,21 @@
+name: poller
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    #
+jobs:
+  poller:
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - run: 
+          pip install pipenv
+          pipenv install
+      - uses: actions/checkout@v2
+      - run: make run
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          MAILCHIMP_TOKEN: ${{ secrets.MAILCHIMP_TOKEN }}
