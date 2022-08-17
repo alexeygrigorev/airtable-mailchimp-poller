@@ -1,5 +1,6 @@
-install:
+init:
 	pipenv install
+	cp .envrc_template .envrc
 
 script:
 	pipenv run jupyter nbconvert --to=script notebook.ipynb

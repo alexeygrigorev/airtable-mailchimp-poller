@@ -1,9 +1,15 @@
 ## Airtable to Mailchimp exporter
 
-Install depedencies:
+Initialize it:
 
 ```bash
-pipenv install
+make init
+```
+
+Then edit `.envrc`
+
+```bash
+nano .envrc
 ```
 
 Run the script
