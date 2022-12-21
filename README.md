@@ -21,5 +21,5 @@ make run
 Open jupyter
 
 ```bash
-make jupyter
+make notebook
 ```
