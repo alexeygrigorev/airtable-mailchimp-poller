@@ -1,7 +1,7 @@
 page_size: 10
 list_id: 97178021aa
 tables: 
-  []
+  # []
   # - database: appflP5cuR8bD5MIm
   #   table: tbl71MaTsk6ltsa2B
   #   view: viwu3aTdizhuNsIkR
@@ -18,3 +18,7 @@ tables:
   #   table: tblQTeFJ19T93oG7h
   #   view: viwsCXf6SxXoccjcE
   #   tag: "mlops-zoomcamp-2023"
+  - database: appPPxkgYLH06Mvbw
+    table: tblLTQ77EtdBv98b1
+    view: viwJZ2aaXi0YPLp3e
+    tag: "llm-zoomcamp-2024"
