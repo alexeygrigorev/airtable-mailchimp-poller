@@ -14,11 +14,11 @@ tables:
   #  table: tblvfbVG0YFqapI4F
   #  view: viwtlnYJjNsNu1ZWS
   #  tag: "de-zoomcamp-2024"
-  - database: appYdhA23GVZd1iN2
-    table: tblQTeFJ19T93oG7h
-    view: viwsCXf6SxXoccjcE
-    tag: "mlops-zoomcamp-2024"
-  - database: appPPxkgYLH06Mvbw
-    table: tblLTQ77EtdBv98b1
-    view: viwJZ2aaXi0YPLp3e
-    tag: "llm-zoomcamp-2024"
+  # - database: appYdhA23GVZd1iN2
+  #   table: tblQTeFJ19T93oG7h
+  #   view: viwsCXf6SxXoccjcE
+  #   tag: "mlops-zoomcamp-2024"
+  # - database: appPPxkgYLH06Mvbw
+  #   table: tblLTQ77EtdBv98b1
+  #   view: viwJZ2aaXi0YPLp3e
+  #   tag: "llm-zoomcamp-2024"
