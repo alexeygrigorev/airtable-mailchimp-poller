@@ -2,10 +2,10 @@ page_size: 10
 list_id: 97178021aa
 tables: 
   # []
-  - database: appflP5cuR8bD5MIm
-    table: tbl71MaTsk6ltsa2B
-    view: viwu3aTdizhuNsIkR
-    tag: "ml-zoomcamp-2024"
+  # - database: appflP5cuR8bD5MIm
+  #   table: tbl71MaTsk6ltsa2B
+  #   view: viwu3aTdizhuNsIkR
+  #   tag: "ml-zoomcamp-2024"
   # - database: app8h6jXIftlLvvKK
   #   table: tblYX2Wlyk8jsNFmF
   #   view: viwpaaXdioqhJewdG
