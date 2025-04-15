@@ -1,7 +1,7 @@
 page_size: 10
 list_id: 97178021aa
 tables: 
-  # []
+  []
   # - database: appflP5cuR8bD5MIm
   #   table: tbl71MaTsk6ltsa2B
   #   view: viwu3aTdizhuNsIkR
@@ -10,14 +10,14 @@ tables:
   #   table: tblYX2Wlyk8jsNFmF
   #   view: viwpaaXdioqhJewdG
   #   tag: "ml-zoomcamp-2023"
-  - database: appzbS8Pkg9PL254a
-    table: tblvfbVG0YFqapI4F
-    view: viwtlnYJjNsNu1ZWS
-    tag: "de-zoomcamp-2025"
+  # - database: appzbS8Pkg9PL254a
+  #   table: tblvfbVG0YFqapI4F
+  #   view: viwtlnYJjNsNu1ZWS
+  #   tag: "de-zoomcamp-2025"
   # - database: appYdhA23GVZd1iN2
   #   table: tblQTeFJ19T93oG7h
   #   view: viwsCXf6SxXoccjcE
-  #   tag: "mlops-zoomcamp-2024"
+  #   tag: "mlops-zoomcamp-2025"
   # - database: appPPxkgYLH06Mvbw
   #   table: tblLTQ77EtdBv98b1
   #   view: viwJZ2aaXi0YPLp3e
