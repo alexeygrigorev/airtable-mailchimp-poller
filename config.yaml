@@ -14,7 +14,7 @@ tables:
     table: tblQTeFJ19T93oG7h
     view: viwsCXf6SxXoccjcE
     tag: "mlops-zoomcamp-2025"
-  # - database: appPPxkgYLH06Mvbw
-  #   table: tblLTQ77EtdBv98b1
-  #   view: viwJZ2aaXi0YPLp3e
-  #   tag: "llm-zoomcamp-2024"
+  - database: appPPxkgYLH06Mvbw
+    table: tblLTQ77EtdBv98b1
+    view: viwJZ2aaXi0YPLp3e
+    tag: "llm-zoomcamp-2025"
