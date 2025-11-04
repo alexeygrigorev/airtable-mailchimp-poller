@@ -18,3 +18,7 @@ tables:
   #   table: tblLTQ77EtdBv98b1
   #   view: viwJZ2aaXi0YPLp3e
   #   tag: "llm-zoomcamp-2025"
+  - database: appJRFiWKHBgmEt70
+    table: tblLTQ77EtdBv98b1
+    view: viwJZ2aaXi0YPLp3e
+    tag: " ai-dev-tools-zoomcamp-2025"
