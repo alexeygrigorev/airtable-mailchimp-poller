@@ -6,18 +6,18 @@ tables:
   #   table: tbl71MaTsk6ltsa2B
   #   view: viwu3aTdizhuNsIkR
   #   tag: "ml-zoomcamp-2025"
-  - database: appzbS8Pkg9PL254a
-    table: tblvfbVG0YFqapI4F
-    view: viwtlnYJjNsNu1ZWS
-    tag: "de-zoomcamp-2026"
+  # - database: appzbS8Pkg9PL254a
+  #   table: tblvfbVG0YFqapI4F
+  #   view: viwtlnYJjNsNu1ZWS
+  #   tag: "de-zoomcamp-2026"
   # - database: appYdhA23GVZd1iN2
   #   table: tblQTeFJ19T93oG7h
   #   view: viwsCXf6SxXoccjcE
   #   tag: "mlops-zoomcamp-2025"
-  # - database: appPPxkgYLH06Mvbw
-  #   table: tblLTQ77EtdBv98b1
-  #   view: viwJZ2aaXi0YPLp3e
-  #   tag: "llm-zoomcamp-2025"
+  - database: appPPxkgYLH06Mvbw
+    table: tblLTQ77EtdBv98b1
+    view: viwJZ2aaXi0YPLp3e
+    tag: "llm-zoomcamp-2026"
   # - database: appJRFiWKHBgmEt70
   #   table: tblLTQ77EtdBv98b1
   #   view: viwJZ2aaXi0YPLp3e
